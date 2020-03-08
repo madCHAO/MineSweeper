@@ -1,2 +1,2 @@
 # MineSweeper
-the MineSweeper game
+微软的扫雷游戏手打代码，理论上支持200*200以上的盘
